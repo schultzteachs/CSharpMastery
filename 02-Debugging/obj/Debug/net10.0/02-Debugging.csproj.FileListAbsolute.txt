@@ -1,0 +1,15 @@
+C:\Users\craig\OneDrive\Documents\C#\CSharpMastery\02-Debugging\bin\Debug\net10.0\02-Debugging.exe
+C:\Users\craig\OneDrive\Documents\C#\CSharpMastery\02-Debugging\bin\Debug\net10.0\02-Debugging.deps.json
+C:\Users\craig\OneDrive\Documents\C#\CSharpMastery\02-Debugging\bin\Debug\net10.0\02-Debugging.runtimeconfig.json
+C:\Users\craig\OneDrive\Documents\C#\CSharpMastery\02-Debugging\bin\Debug\net10.0\02-Debugging.dll
+C:\Users\craig\OneDrive\Documents\C#\CSharpMastery\02-Debugging\bin\Debug\net10.0\02-Debugging.pdb
+C:\Users\craig\OneDrive\Documents\C#\CSharpMastery\02-Debugging\obj\Debug\net10.0\02-Debugging.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\craig\OneDrive\Documents\C#\CSharpMastery\02-Debugging\obj\Debug\net10.0\02-Debugging.AssemblyInfoInputs.cache
+C:\Users\craig\OneDrive\Documents\C#\CSharpMastery\02-Debugging\obj\Debug\net10.0\02-Debugging.AssemblyInfo.cs
+C:\Users\craig\OneDrive\Documents\C#\CSharpMastery\02-Debugging\obj\Debug\net10.0\02-Debugging.csproj.CoreCompileInputs.cache
+C:\Users\craig\OneDrive\Documents\C#\CSharpMastery\02-Debugging\obj\Debug\net10.0\02-Debugging.sourcelink.json
+C:\Users\craig\OneDrive\Documents\C#\CSharpMastery\02-Debugging\obj\Debug\net10.0\02-Debugging.dll
+C:\Users\craig\OneDrive\Documents\C#\CSharpMastery\02-Debugging\obj\Debug\net10.0\refint\02-Debugging.dll
+C:\Users\craig\OneDrive\Documents\C#\CSharpMastery\02-Debugging\obj\Debug\net10.0\02-Debugging.pdb
+C:\Users\craig\OneDrive\Documents\C#\CSharpMastery\02-Debugging\obj\Debug\net10.0\02-Debugging.genruntimeconfig.cache
+C:\Users\craig\OneDrive\Documents\C#\CSharpMastery\02-Debugging\obj\Debug\net10.0\ref\02-Debugging.dll
