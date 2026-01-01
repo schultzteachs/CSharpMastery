@@ -1,0 +1,14 @@
+C:\Users\craig\OneDrive\Documents\C#\CSharpMastery\bin\Debug\net10.0\CSharpMastery.exe
+C:\Users\craig\OneDrive\Documents\C#\CSharpMastery\bin\Debug\net10.0\CSharpMastery.deps.json
+C:\Users\craig\OneDrive\Documents\C#\CSharpMastery\bin\Debug\net10.0\CSharpMastery.runtimeconfig.json
+C:\Users\craig\OneDrive\Documents\C#\CSharpMastery\bin\Debug\net10.0\CSharpMastery.dll
+C:\Users\craig\OneDrive\Documents\C#\CSharpMastery\bin\Debug\net10.0\CSharpMastery.pdb
+C:\Users\craig\OneDrive\Documents\C#\CSharpMastery\obj\Debug\net10.0\CSharpMastery.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\craig\OneDrive\Documents\C#\CSharpMastery\obj\Debug\net10.0\CSharpMastery.AssemblyInfoInputs.cache
+C:\Users\craig\OneDrive\Documents\C#\CSharpMastery\obj\Debug\net10.0\CSharpMastery.AssemblyInfo.cs
+C:\Users\craig\OneDrive\Documents\C#\CSharpMastery\obj\Debug\net10.0\CSharpMastery.csproj.CoreCompileInputs.cache
+C:\Users\craig\OneDrive\Documents\C#\CSharpMastery\obj\Debug\net10.0\CSharpMastery.dll
+C:\Users\craig\OneDrive\Documents\C#\CSharpMastery\obj\Debug\net10.0\refint\CSharpMastery.dll
+C:\Users\craig\OneDrive\Documents\C#\CSharpMastery\obj\Debug\net10.0\CSharpMastery.pdb
+C:\Users\craig\OneDrive\Documents\C#\CSharpMastery\obj\Debug\net10.0\CSharpMastery.genruntimeconfig.cache
+C:\Users\craig\OneDrive\Documents\C#\CSharpMastery\obj\Debug\net10.0\ref\CSharpMastery.dll
