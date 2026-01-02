@@ -8,11 +8,11 @@ Transitioning from Mathematics and Computer Science Education to Technical Curri
 * **Status:** IN PROGRESS
 
 ## Project Log
-[ ] Phase 1: Get Started
-[ ] Phase 2: Learn C#
-[ ] Phase 3: Certification Exam
-[ ] Phase 4: Projects to build towards Doctoral Project
-    [ ] Project 1: Monte Carlo Simlulator
-    [ ] Project 2: Artillery Trajectory Engine
-    [ ] Project 3: PID Controller Simulator
-    [ ] Project 4: Physics Engine - Euler Integration
+[ ] Phase 1: Get Started <br>
+[ ] Phase 2: Learn C# <br>
+[ ] Phase 3: Certification Exam <br>
+[ ] Phase 4: Projects to build towards Doctoral Project <br>
+    [ ] Project 1: Monte Carlo Simulator <br>
+    [ ] Project 2: Artillery Trajectory Engine <br>
+    [ ] Project 3: PID Controller Simulator <br>
+    [ ] Project 4: Physics Engine - Euler Integration <br>
